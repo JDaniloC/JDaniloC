@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"> 👨🏻‍💻 J. Danilo Carmo </h1>
 
-<!--
-**JDaniloC/JDaniloC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<img alt="JDaniloC's top languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
-Here are some ideas to get you started:
+🕵️‍♀️ Always wanting to build someting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 In constant learning
+
+🌱 Facinated to improve my skills
+
+😄 Likes to help others solve problems
+
+💬 Chat with me about: Instruments, technologies, health and philanthropy
+
+- - - - -
+
+<img alt="JDaniloC's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=jdaniloc&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
+
+- - - - -
