@@ -22,10 +22,13 @@
 See some private repositories here:
 
 <p align="center">
-  <a href = "https://jdaniloc.github.io/Individual-Copytrader/">
-    <img src = "./copy.png"/ height = "200px">
-  </a>
   <a href = "https://jdaniloc.github.io/Individual-StrategyBot/">
-    <img src = "./strategies.png" height = "200px"/>
+    <img src = "./assets/strategies.png" height = "200px"/>
+  </a>
+  <a href = "https://jdaniloc.github.io/Individual-Copytrader/">
+    <img src = "./assets/copytrader.png" height = "200px">
+  </a>
+  <a href = "https://jdaniloc.github.io/Individual-Catalogador/">
+    <img src = "./assets/cataloguer.png" height = "200px"/>
   </a>
 </p>
