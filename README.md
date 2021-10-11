@@ -1,19 +1,40 @@
 <h1 align="center"> 👨🏻‍💻 J. Danilo Carmo </h1>
 
+<img alt="JDaniloC's top languages" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+
+<img align = "right" src="https://metrics.lecoq.io/JDaniloC?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&notable.repositories=true&config.timezone=America%2FSao_Paulo"/>
+
+<p align = "left" width = "20%"> 
+  <hr/>
+  <hr/>
+  <hr/>
+  <hr/>
+  <hr/>
+  <hr/>
+  <hr/>
+  <hr/>
   
-<img alt="JDaniloC's top languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+  📚 In constant learning
+  
+  🕵️‍♀️ Always building something
 
-🕵️‍♀️ Always wanting to build someting
+  🌱 Facinated to improve my skills
 
-📚 In constant learning
+  😄 Likes to help others solve problems
 
-🌱 Facinated to improve my skills
-
-😄 Likes to help others solve problems
-
-💬 Chat with me about: Instruments, technologies, health and philanthropy
-
-- - - - -
+  💬 Chat with me about: Instruments and philanthropy
+  
+  📫 Contact me:
+  
+  <div align = "center">
+    <a href = "mailto: jdsc@cin.ufpe.br" align = "left">
+      <img src = "https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href = "https://www.linkedin.com/in/jdaniloc" align = "left">
+      <img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+  </div>
+</p>
 
 <img alt="JDaniloC's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=jdaniloc&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
 
