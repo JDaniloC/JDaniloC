@@ -29,4 +29,4 @@ jobs:
           plugin_achievements_limit: 5
           plugin_achievements_display: detailed
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: pull-request
+          output_action: pull-request-squash
