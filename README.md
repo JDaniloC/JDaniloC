@@ -2,7 +2,7 @@
 
 <img alt="JDaniloC's top languages" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
-<img align = "right" width = "49%" src="https://github.com/JDaniloC/JDaniloC/blob/master/github-metrics.svg"/>
+<img align = "right" width = "49%" src="./github-metrics.svg"/>
 
 <p float = "left" width = "38%"> 
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
