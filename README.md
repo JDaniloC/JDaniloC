@@ -2,7 +2,7 @@
 
 <img alt="JDaniloC's top languages" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
-<img align = "right" width = "49%" src="https://metrics.lecoq.io/JDaniloC?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=5&notable.repositories=true&config.timezone=America%2FSao_Paulo"/>
+<img align = "right" width = "49%" src="https://github.com/JDaniloC/JDaniloC/blob/master/github-metrics.svg"/>
 
 <p float = "left" width = "38%"> 
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
