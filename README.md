@@ -1,4 +1,4 @@
-<h1 align="center"> 👨🏻‍💻 J. Danilo Carmo </h1>
+<h1 align="center"> J. Danilo Carmo </h1>
 
 <img alt="JDaniloC's top languages" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
@@ -49,5 +49,8 @@
   </a>
   <a href = "https://jdaniloc.github.io/Individual-Catalogador/">
     <img src = "./assets/cataloguer.png" height = "200px"/>
+  </a>
+  <a href = "https://jdaniloc.github.io/Individual-Telebot/">
+    <img src = "./assets/telebot.png" height = "200px"/>
   </a>
 </p>
