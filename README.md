@@ -50,7 +50,4 @@
   <a href = "https://jdaniloc.github.io/Individual-Catalogador/">
     <img src = "./assets/cataloguer.png" height = "200px"/>
   </a>
-  <a href = "https://jdaniloc.github.io/Individual-Telebot/">
-    <img src = "./assets/telebot.png" height = "200px"/>
-  </a>
 </p>
