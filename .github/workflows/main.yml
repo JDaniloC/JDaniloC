@@ -19,6 +19,7 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_notable: yes
