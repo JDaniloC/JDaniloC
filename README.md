@@ -1,37 +1,10 @@
 <h1 align="center"> J. Danilo Carmo </h1>
 
-<img alt="JDaniloC's top languages" align = "left" width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
-
 <img align = "right" width = "49%" src="./github-metrics.svg"/>
-
-<p float = "left" width = "38%"> 
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-  
-  <p align = "center"> Who am I? </p>
-  
-  📚 In constant learning
-  
-  🕵️‍♀️ Always building something
-
-  🌱 Facinated to improve my skills
-
-  😄 Likes to help others solve problems
-
-  💬 Chat with me about: Instruments and philanthropy
-  
-  📫 Contact me:
-  
-  <div align = "center">
-    <a href = "mailto: jdsc@cin.ufpe.br" align = "left">
-      <img src = "https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
-    </a>
-    <a href = "https://www.linkedin.com/in/jdaniloc" align = "left">
-      <img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-  </div>
-</p>
-
-<img alt="JDaniloC's github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=jdaniloc&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
+<img alt="JDaniloC's github stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=jdaniloc&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
+<img alt="JDaniloC's github streak" width="49%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=jdaniloc&theme=calm&hide_border=false"/>
+<img alt="JDaniloC's top languages" width = "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
 - - - - -
 
@@ -51,3 +24,12 @@
     <img src = "./assets/cataloguer.png" height = "200px"/>
   </a>
 </p>
+
+<div align = "center">
+    <a href = "mailto: jdsc@cin.ufpe.br" align = "left">
+      <img width="80px" src = "https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href = "https://www.linkedin.com/in/jdaniloc" align = "left">
+      <img width="100px" src = "https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+</div>
