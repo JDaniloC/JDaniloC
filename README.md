@@ -6,8 +6,6 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=jdaniloc&theme=calm&hide_border=false"/>
 <img alt="JDaniloC's top languages" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
 
-- - - - -
-
 **See some private repositories here:**
 
 <p align="center">
