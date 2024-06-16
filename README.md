@@ -4,7 +4,7 @@
 <img alt="JDaniloC's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jdaniloc&show_icons=true&theme=calm&count_private=true&include_all_commits=true" />
 <img alt="JDaniloC's github streak" width="48%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=jdaniloc&theme=calm&hide_border=false"/>
-<img alt="JDaniloC's top languages" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&exclude_repo=Individual-SnakeWorld"/>
+<img alt="JDaniloC's top languages" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDaniloC&theme=calm&layout=compact&count_private=true&langs_count=8&hide=html,css,jupyter%20notebook"/>
 
 **See some private repositories here:**
 
