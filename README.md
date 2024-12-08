@@ -12,9 +12,6 @@
   <a href = "https://jdaniloc.github.io/Individual-StrategyBot/">
     <img src = "./assets/strategies.png" height = "200px"/>
   </a>
-  <a href = "https://jdaniloc.github.io/Individual-Copytrader/">
-    <img src = "./assets/copytrader.png" height = "200px">
-  </a>
   <a href = "https://jdaniloc.github.io/Individual-IQDesktop/">
     <img src = "./assets/desktop.png" height = "200px">
   </a>
